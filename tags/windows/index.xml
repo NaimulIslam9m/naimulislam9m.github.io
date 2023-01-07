@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on Naim&#39;s Blog</title>
+    <link>https://naimulislam9m.github.io/tags/windows/</link>
+    <description>Recent content in Windows on Naim&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://naimulislam9m.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stop Malware Using Macros: Windows Sandbox</title>
+      <link>https://naimulislam9m.github.io/posts/stop-malware-using-macros-windows-sandbox/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://naimulislam9m.github.io/posts/stop-malware-using-macros-windows-sandbox/</guid>
+      <description>Malware continues to be a major threat to individuals and organizations alike. One common way that malware is delivered is through the use of malicious macros in office products, which are often spread through social engineering tactics. While sandboxing office products could potentially mitigate this issue, it&amp;rsquo;s not a simple solution. This is because sandboxing would not be backwards compatible, meaning it would break the existing workflow for many users and companies.</description>
+    </item>
+    
+  </channel>
+</rss>
