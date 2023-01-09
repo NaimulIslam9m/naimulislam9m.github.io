@@ -6,7 +6,17 @@
     <description>Recent content on Naim&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://naimulislam9m.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://naimulislam9m.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI: The Beast or Jerusalem?</title>
+      <link>https://naimulislam9m.github.io/posts/ai-the-beast-or-jerusalem/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://naimulislam9m.github.io/posts/ai-the-beast-or-jerusalem/</guid>
+      <description>Here I&amp;rsquo;ve shared my notes what I&amp;rsquo;ve taken from AI: The Beast or Jerusalem? video in my own words.
+ It is estimated that human brain can do $10^{18}$ Operations/Second. It could be wrong but it is estimated based on different parameters. Modern CPUs on our phone can do ~$10^{10}$ Operations/Second (10 Billion). And GPUs can do ~$10^{11}$ Operations/Second (100 Billion). Modern AIs like Google or OpenAI are doing $10^{16}$ Operations/Second.</description>
+    </item>
+    
     <item>
       <title>Stop Malware Using Macros: Windows Sandbox</title>
       <link>https://naimulislam9m.github.io/posts/stop-malware-using-macros-windows-sandbox/</link>

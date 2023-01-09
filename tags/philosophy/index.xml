@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy on Naim&#39;s Blog</title>
+    <link>https://naimulislam9m.github.io/tags/philosophy/</link>
+    <description>Recent content in Philosophy on Naim&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://naimulislam9m.github.io/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI: The Beast or Jerusalem?</title>
+      <link>https://naimulislam9m.github.io/posts/ai-the-beast-or-jerusalem/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://naimulislam9m.github.io/posts/ai-the-beast-or-jerusalem/</guid>
+      <description>Here I&amp;rsquo;ve shared my notes what I&amp;rsquo;ve taken from AI: The Beast or Jerusalem? video in my own words.
+ It is estimated that human brain can do $10^{18}$ Operations/Second. It could be wrong but it is estimated based on different parameters. Modern CPUs on our phone can do ~$10^{10}$ Operations/Second (10 Billion). And GPUs can do ~$10^{11}$ Operations/Second (100 Billion). Modern AIs like Google or OpenAI are doing $10^{16}$ Operations/Second.</description>
+    </item>
+    
+  </channel>
+</rss>
